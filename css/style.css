@@ -54,14 +54,14 @@ body {
 }
 main {
 	width: 850px;
-	margin: 35px;
+	margin: 35px auto 35px auto;
 }
 img {
 	margin: 40px 8px 40px 8px;
 }
 .name{
 	color: #F15B31;
-	weight: 700;
+	font-weight: 700;
 }
 footer{
 	text-transform: uppercase;
